@@ -1,0 +1,8 @@
+env
+/env
+./env
+*./env
+.*/env
+*/env
+django_app
+django_project
